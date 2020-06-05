@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590787062 source:c:\users\ruben\documents\eng_da_computação\lp\lp_05-06\lp_05-06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
